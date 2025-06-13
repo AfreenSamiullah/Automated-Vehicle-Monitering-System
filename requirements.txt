@@ -1,0 +1,5 @@
+﻿flask==2.3.3
+gunicorn==23.0.0
+google-cloud-vision==3.7.4
+google-auth==2.35.0
+google-api-python-client==2.149.0
